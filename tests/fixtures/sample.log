@@ -1,0 +1,15 @@
+2024-01-15T10:30:00Z INFO  Connection accepted from 192.168.1.5:54321
+2024-01-15T10:30:01Z INFO  Connection accepted from 192.168.1.7:54322
+2024-01-15T10:30:02Z INFO  Connection accepted from 10.0.0.2:8080
+2024-01-15T10:31:00Z WARN  Retry attempt 1 for job 4471
+2024-01-15T10:31:05Z WARN  Retry attempt 2 for job 4471
+2024-01-15T10:31:10Z WARN  Retry attempt 3 for job 9981
+2024-01-15T10:32:00Z ERROR Request req-550e8400-e29b-41d4-a716-446655440000 failed after 250ms
+2024-01-15T10:32:05Z ERROR Request req-9c858901-8a57-4791-81fe-4c455b099bc9 failed after 310ms
+2024-01-15T10:33:00Z INFO  User user42 logged in
+2024-01-15T10:33:05Z INFO  User user77 logged in
+2024-01-15T10:33:10Z INFO  User user3 logged in
+2024-01-15T10:34:00Z DEBUG cache hit for key abc123def456
+2024-01-15T10:34:01Z DEBUG cache miss for key 789fedcba012
+
+2024-01-15T10:35:00Z INFO  Connection accepted from 172.16.0.9:22
